@@ -1,4 +1,4 @@
-# Natūralios kalbos apdorojimo ir aibių siaurinimo metodai siūlant pilnus ar dalinius nomenklatūros prekių kodus pagal muitinės deklaracijų prekių aprašymus
+# Natūralios kalbos apdorojimo ir aibių siaurinimo metodai siūlant pilnus ar dalinius nomenklatūros prekių kodus pagal muitinės deklaracijų prekių aprašymus:)
 
 ## Projekto aprašymas, tikslai ir uždaviniai
 
